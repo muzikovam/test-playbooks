@@ -1,6 +1,6 @@
 ---
 
-- hosts: local
+- hosts: localhost
   gather_facts: false
   vars:
     num_messages: 50
